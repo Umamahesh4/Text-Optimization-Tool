@@ -7,3 +7,5 @@ Auto Suggest: Provides word suggestions based on the given prefix.
 Spell Check: Identifies misspelled words in a sentence.
 Check by Category: Finds the category of a given word.
 Words under Category: Lists all words under a specified category.
+
+To run project1_ubuntu_app file  you need a ubuntu machine , it is .deb file
