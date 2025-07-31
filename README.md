@@ -9,5 +9,7 @@ Check by Category: Finds the category of a given word.
 Words under Category: Lists all words under a specified category.
 
 To run project1_ubuntu_app file  you need a ubuntu machine , it is .deb file
+
+ total words count in temp.txt file:
 103 categories 
 5098 words
